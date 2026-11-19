@@ -1,0 +1,8 @@
+Name: cpl
+Version: 0.1.5
+
+Description: cpl (Check PHP Library)
+  A reusable PHP library for other Icinga Web 2 modules. Provides classes to
+  build and render Icinga check results (single checks and aggregated check
+  packages) and CLI commands to aggregate monitoring/icingadb services into a
+  single check result.
